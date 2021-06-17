@@ -1,0 +1,54 @@
+body{
+  background-color: #564a4a;
+}
+
+  div.box{
+    background-color: #4aa96c;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px #9fe6a0;
+  }
+    h1{
+      font-family: 'Odibee Sans', cursive;
+      font-size: 80px;
+      color: white;
+      text-align: center;
+    }
+    p{
+     font-family: 'Roboto', sans serif;
+     color: white;
+     font-size: 14px;
+    }
+    #birthyear{
+     width: 450px;
+     align-items: center;
+     padding: 5px;
+     margin: 0px 0px 10px 0px;
+    }
+    #send{
+      font-family: 'Roboto', sans serif;
+      font-size: 16px;
+      background-color: #9fe6a0;
+      width: 100px;
+      padding: 5px;
+      box-shadow: 5px 5px #f55c47;  
+      border: none;
+    }
+    #send:hover{
+      background-color: #f55c47;
+      box-shadow: 5px 5px #9fe6a0;
+    }
+    div.result{
+      background-color: #4aa96c;
+      padding: 20px;
+      width: 500px;
+      margin: auto;
+      box-shadow: 5px 5px #9fe6a0;
+    }
+    #resultText{
+      font-family: 'Roboto', sans serif;
+      font-size: 40px;
+      color: white;
+      text-align: center;
+    }
