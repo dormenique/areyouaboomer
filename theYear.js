@@ -4,7 +4,7 @@ var year = document.getElementById("birthyear").value;
 var yearsOld = 2021 - year;
 
         if (year <= 1945) {
-        generation = "Silent";
+        generation = "Baby Boomer";
       } else if (year <= 1964) {
         generation = "BOOMER";
       } else if (year <= 1980) {
