@@ -14,6 +14,8 @@ var yearsOld = 2021 - year;
       } else {
         generation = "Z";
       }
+  
+  document.getElementById("birthyear").value = "";
 
 var resultYear = "You are" + " " + yearsOld + " " + "years old,"  + " " + "you belong to the" + " " + generation + " " + "Generation!"
 
